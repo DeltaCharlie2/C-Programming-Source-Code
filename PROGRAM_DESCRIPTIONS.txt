@@ -1,0 +1,33 @@
+IN ALL CODE INVOLVING RANDOM NUMBERS:
+	  rand() is NOT SEEDED so the same values will be generated every time. 
+
+PROGRAM LIST:
+
+arrayExchangeSort.c
+	Generates an array of pseudo-random numbers and then performs and exchange sort.
+
+centroidFinder.c
+	Generates a pseudo-random triangle and then calculates the centroid.
+	
+charConverter.c
+	Converts the characters in the user input to Hex, Decimal, and Binary.
+
+inputIntCount.c
+	Records and classifies input integers as negative or positive.
+	
+palindrome.c
+	Determines if the user-supplied characters form a palindrome or not.
+
+primeNumberGenerator.c
+	Generates all of the prime numbers between 2 positive user-specified integers.
+
+pseudoRandomNumber.c
+	Generates a user-supplied amount of pseudo-random numbers.
+	
+random2DArray.c
+	Generates a 2D array of user-specified dimensions containing pseudo-random numbers.
+	
+
+	
+	
+	
